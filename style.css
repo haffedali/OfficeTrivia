@@ -1,0 +1,46 @@
+.titleCard {
+    width: 100%;
+    background-color: darkslategrey;
+    height: 50px;
+    text-align: center;
+}
+
+#gamebox {
+    height: 360px;
+    width: 720px;
+    background-color: lightblue;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.row.answer {
+    text: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: palegoldenrod;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+    width: 718px;
+    position: relative;
+    top: 103px;
+}
+
+#questionDisplay {
+    height: 60px;
+    width: 718px;
+    margin-left: 1px;
+    margin-right: 1px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.timebox {
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    margin: auto;
+    font-size: 40px;
+    text-align: center
+}
